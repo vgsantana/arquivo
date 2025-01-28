@@ -11,7 +11,7 @@ Write your code in this editor and press "Run" button to compile and execute it.
 void main()
 {
     float n;
-    printf("Digite um numero: ");
+    printf("Digite um numero inteiro: ");
     scanf("%f", &n);
     
     if (n > 0){
